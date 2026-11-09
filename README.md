@@ -40,6 +40,7 @@ Detalhes que costumam faltar em bots prontos:
 ```bash
 python simulador.py            # tempo real
 python simulador.py --rapido   # 3x mais rápido
+python simulador.py --demo     # um cliente simulado conversa sozinho (só assistir)
 ```
 Mande duas ou três mensagens seguidas e veja o bot esperar você terminar.
 
